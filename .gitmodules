@@ -1,0 +1,3 @@
+[submodule "methods"]
+	path = methods
+	url = https://github.com/chichi-pixel/XamarinCsharpBasicstoAdvanced.git

@@ -1,0 +1,7 @@
+C:\Users\hatic\source\repos\ForWhileLoop\ForWhileLoop\bin\Debug\ForWhileLoop.exe.config
+C:\Users\hatic\source\repos\ForWhileLoop\ForWhileLoop\bin\Debug\ForWhileLoop.exe
+C:\Users\hatic\source\repos\ForWhileLoop\ForWhileLoop\bin\Debug\ForWhileLoop.pdb
+C:\Users\hatic\source\repos\ForWhileLoop\ForWhileLoop\obj\Debug\ForWhileLoop.csproj.AssemblyReference.cache
+C:\Users\hatic\source\repos\ForWhileLoop\ForWhileLoop\obj\Debug\ForWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\hatic\source\repos\ForWhileLoop\ForWhileLoop\obj\Debug\ForWhileLoop.exe
+C:\Users\hatic\source\repos\ForWhileLoop\ForWhileLoop\obj\Debug\ForWhileLoop.pdb

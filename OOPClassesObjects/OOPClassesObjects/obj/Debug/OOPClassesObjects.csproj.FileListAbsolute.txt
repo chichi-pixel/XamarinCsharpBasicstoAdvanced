@@ -1,0 +1,7 @@
+C:\Users\hatic\source\repos\OOPClassesObjects\OOPClassesObjects\bin\Debug\OOPClassesObjects.exe.config
+C:\Users\hatic\source\repos\OOPClassesObjects\OOPClassesObjects\bin\Debug\OOPClassesObjects.exe
+C:\Users\hatic\source\repos\OOPClassesObjects\OOPClassesObjects\bin\Debug\OOPClassesObjects.pdb
+C:\Users\hatic\source\repos\OOPClassesObjects\OOPClassesObjects\obj\Debug\OOPClassesObjects.csproj.AssemblyReference.cache
+C:\Users\hatic\source\repos\OOPClassesObjects\OOPClassesObjects\obj\Debug\OOPClassesObjects.csproj.CoreCompileInputs.cache
+C:\Users\hatic\source\repos\OOPClassesObjects\OOPClassesObjects\obj\Debug\OOPClassesObjects.exe
+C:\Users\hatic\source\repos\OOPClassesObjects\OOPClassesObjects\obj\Debug\OOPClassesObjects.pdb

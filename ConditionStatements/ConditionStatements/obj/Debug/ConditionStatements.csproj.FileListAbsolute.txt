@@ -1,0 +1,7 @@
+C:\Users\hatic\source\repos\ConditionStatements\ConditionStatements\obj\Debug\ConditionStatements.csproj.AssemblyReference.cache
+C:\Users\hatic\source\repos\ConditionStatements\ConditionStatements\obj\Debug\ConditionStatements.csproj.CoreCompileInputs.cache
+C:\Users\hatic\source\repos\ConditionStatements\ConditionStatements\bin\Debug\ConditionStatements.exe.config
+C:\Users\hatic\source\repos\ConditionStatements\ConditionStatements\bin\Debug\ConditionStatements.exe
+C:\Users\hatic\source\repos\ConditionStatements\ConditionStatements\bin\Debug\ConditionStatements.pdb
+C:\Users\hatic\source\repos\ConditionStatements\ConditionStatements\obj\Debug\ConditionStatements.exe
+C:\Users\hatic\source\repos\ConditionStatements\ConditionStatements\obj\Debug\ConditionStatements.pdb

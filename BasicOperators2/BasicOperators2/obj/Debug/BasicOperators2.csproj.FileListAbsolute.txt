@@ -1,0 +1,14 @@
+C:\Users\hatic\source\repos\BasicOperators2\BasicOperators2\obj\Debug\BasicOperators2.csproj.AssemblyReference.cache
+C:\Users\hatic\source\repos\BasicOperators2\BasicOperators2\obj\Debug\BasicOperators2.csproj.CoreCompileInputs.cache
+C:\Users\hatic\source\repos\BasicOperators2\BasicOperators2\bin\Debug\BasicOperators2.exe.config
+C:\Users\hatic\source\repos\BasicOperators2\BasicOperators2\bin\Debug\BasicOperators2.exe
+C:\Users\hatic\source\repos\BasicOperators2\BasicOperators2\bin\Debug\BasicOperators2.pdb
+C:\Users\hatic\source\repos\BasicOperators2\BasicOperators2\obj\Debug\BasicOperators2.exe
+C:\Users\hatic\source\repos\BasicOperators2\BasicOperators2\obj\Debug\BasicOperators2.pdb
+C:\Users\hatic\source\repos\XamarinCsharp\BasicOperators2\BasicOperators2\bin\Debug\BasicOperators2.exe.config
+C:\Users\hatic\source\repos\XamarinCsharp\BasicOperators2\BasicOperators2\bin\Debug\BasicOperators2.exe
+C:\Users\hatic\source\repos\XamarinCsharp\BasicOperators2\BasicOperators2\bin\Debug\BasicOperators2.pdb
+C:\Users\hatic\source\repos\XamarinCsharp\BasicOperators2\BasicOperators2\obj\Debug\BasicOperators2.csproj.AssemblyReference.cache
+C:\Users\hatic\source\repos\XamarinCsharp\BasicOperators2\BasicOperators2\obj\Debug\BasicOperators2.csproj.CoreCompileInputs.cache
+C:\Users\hatic\source\repos\XamarinCsharp\BasicOperators2\BasicOperators2\obj\Debug\BasicOperators2.exe
+C:\Users\hatic\source\repos\XamarinCsharp\BasicOperators2\BasicOperators2\obj\Debug\BasicOperators2.pdb
